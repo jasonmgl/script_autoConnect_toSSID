@@ -6,6 +6,8 @@ network-manager
 >sudo apt install network-manager<
 
 ## Usage
->chmod 777 script_autoConnect_toSSID.sh<
+>chmod 777 script_autoConnect_toSSID.sh
+
 Modify the SSID variable in script_autoConnect_toSSID.sh
->./script_autoConnect_toSSID<
+
+>./script_autoConnect_toSSID
