@@ -8,8 +8,8 @@ network-manager
 ## Usage
 Modify file authorisation
 
->chmod 777 script_autoConnect_toSSID.sh
+>chmod 777 auto_connect_to_ssid.sh
 
-Modify the SSID variable in script_autoConnect_toSSID.sh
+Modify the SSID variable in auto_connect_to_ssid.sh
 
->./script_autoConnect_toSSID
+>./auto_connect_to_ssid.sh
