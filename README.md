@@ -3,7 +3,7 @@ Linux script to automatically connect to a specific SSID when it is available.
 
 ## Dependency
 network-manager
->sudo apt install network-manager<
+>sudo apt install network-manager
 
 ## Usage
 Modify file authorisation
