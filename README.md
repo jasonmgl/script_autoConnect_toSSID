@@ -1,5 +1,5 @@
 # Script_autoConnect_toSSID
-Linux script to automatically connect to a specific SSID when it is available.
+Linux script to automatically connect to a specific SSID (WIFI) when it is available.
 
 ## Dependency
 network-manager
